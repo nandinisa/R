@@ -1,0 +1,14 @@
+Package: ripoly
+Type: Package
+Title: Repeated measures irregular poly function
+Version: 0.1.0
+Authors@R: 
+    person(given = "Nandini",
+           family = "Anantharama",
+           role = c("aut", "cre"),
+           email = "nandini.anantharama@monash.edu")
+Description: Orthogonal polynomials for repeated irregular time measures
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
